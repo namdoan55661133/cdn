@@ -1878,3 +1878,5 @@ System.register("chunks:///_virtual/write.erc1155.data.ts",["cc","./table.manage
     };
     });
 });
+
+console.log("======done")
