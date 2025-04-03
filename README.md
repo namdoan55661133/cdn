@@ -1,1 +1,2 @@
 # cdn
+cdn for game
